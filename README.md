@@ -6,6 +6,7 @@ This notebook contain workflow to prepare and analyse the results of microbial g
 
 
 Lidia Lipinska, Postdoc
+
 Institute of Genetics and Biotechnology, University of Warsaw
 
 
