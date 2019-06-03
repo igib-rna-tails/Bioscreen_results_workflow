@@ -4,6 +4,11 @@
 
 This notebook contain workflow to prepare and analyse the results of microbial growth rate in Bioscreen Honeycomb plates or any 96-well plate.
 
+
+Lidia Lipinska, Postdoc
+Institute of Genetics and Biotechnology, University of Warsaw
+
+
 ### Steps:
 1. Install requirements.
 2. Import raw data.
