@@ -1,4 +1,4 @@
-# Bioscreen resultsworkflow
+# Bioscreen results workflow
 
 ## Growth rate analysis with Bioscreen or any 96-well plate
 
