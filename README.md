@@ -16,7 +16,9 @@ Institute of Genetics and Biotechnology, University of Warsaw
 3. Prepare raw data for visualisation (numpy, pandas).
 4. Visualisation of growth curves.
 5. Usage of [pyphe-growthcurves made by Stephan Kamrad from Bahler Lab](https://github.com/Bahler-Lab/pyphe-growthcurves) for determination of maximal slope of growth curves and time of microbial lag phase.
-6. Visualisation of max_slope and lap phase on box plots (matplotlib, seaborn).
+6. Visualisation of the maximum slope and the lag phase on box plots (matplotlib, seaborn).
+7. Visualisation of max_slope and the lag phase on heatmaps -- Let's look at __Bioscreen_results_part2__
+
 
 
 
